@@ -1,2 +1,1 @@
-# VSUMM
-Video Summarization
+# Video Summarization
